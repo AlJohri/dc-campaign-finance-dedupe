@@ -1,0 +1,201 @@
+  1. ID
+	<class 'int'>
+	Nulls: False
+	Min: 1
+	Max: 137459
+	Sum: 9447557070
+	Mean: 68730.0
+	Median: 68730
+	Standard Deviation: 39680.99532521834
+	Unique values: 137459
+  2. Type
+	<class 'str'>
+	Nulls: False
+	Unique values: 10
+	5 most frequent values:
+		Campaign Committee:	105937
+		PAC:	22948
+		Constituent Service Fund:	7393
+		Initiative:	512
+		Exploratory Committee:	299
+	Max length: 24
+  3. Committee Name
+	<class 'str'>
+	Nulls: False
+	Unique values: 522
+	5 most frequent values:
+		Verizon Communications Inc. Good Government Club - Washington DC:	9262
+		Muriel Bowser for Mayor:	7073
+		Gray for Mayor:	7022
+		Fenty 2010:	6770
+		Washington DC Association of Realtors PAC:	6347
+	Max length: 85
+  4. Contributor Name
+	<class 'str'>
+	Nulls: True
+	Unique values: 72596
+	5 most frequent values:
+		Patricia Chapla:	219
+		Jeffrey Kramer:	212
+		Andrew Mekelburg:	211
+		Arthur Hall:	210
+		Erica Cunningham:	206
+	Max length: 88
+  5. Address Raw
+	<class 'str'>
+	Nulls: True
+	Unique values: 87381
+	5 most frequent values:
+		4400 Jenifer St, NW, Washington, DC 20015:	201
+		314 Kentucky Ave SE, Washington, DC 20003:	173
+		1444 Whittier Pl., NW, Washington, DC 20012:	159
+		801 D St NE, Washington, DC 20002:	147
+		Not Disclosed, Washington, DC 99999:	146
+	Max length: 71
+  6. Contributor Address
+	<class 'str'>
+	Nulls: True
+	Unique values: 68910
+	5 most frequent values:
+		4400 Jenifer St NW:	309
+		801 D St NE:	289
+		3201 New Mexico Ave NW:	215
+		1206 30th St NW:	192
+		314 Kentucky Ave SE:	183
+	Max length: 46
+  7. Contributor Address2
+	<class 'str'>
+	Nulls: True
+	Unique values: 3572
+	5 most frequent values:
+		Suite 200:	594
+		Suite 300:	433
+		Suite 400:	369
+		#1:	352
+		#2:	297
+	Max length: 24
+  8. Contributor City
+	<class 'str'>
+	Nulls: True
+	Unique values: 3267
+	5 most frequent values:
+		Washington:	89422
+		Alexandria:	2947
+		Bethesda:	2657
+		Silver Spring:	2354
+		Arlington:	2294
+	Max length: 22
+  9. Contributor State
+	<class 'str'>
+	Nulls: True
+	Unique values: 55
+	5 most frequent values:
+		DC:	90035
+		MD:	21632
+		VA:	12831
+		NY:	1884
+		CA:	1467
+	Max length: 6
+ 10. Contributor Zip
+	<class 'int'>
+	Nulls: True
+	Min: 52
+	Max: 99901
+	Sum: 3011513803
+	Mean: 22100.58271443668
+	Median: 20015.0
+	Standard Deviation: 10881.167262121202
+	Unique values: 4475
+	5 most frequent values:
+		20009:	7864
+		20011:	7664
+		20016:	6642
+		20012:	6035
+		20002:	5946
+ 11. Contributor Country
+	<class 'str'>
+	Nulls: True
+	Unique values: 10
+	5 most frequent values:
+		Canada:	5
+		Mali:	3
+		Colombia:	3
+		France:	1
+		Germany:	1
+	Max length: 32
+ 12. Contributor Type
+	<class 'str'>
+	Nulls: True
+	Unique values: 20
+	5 most frequent values:
+		Individual:	113516
+		Corporation:	21199
+		Candidate:	1701
+		Organization:	367
+		Limited Liability Company:	137
+	Max length: 25
+ 13. Contribution Type
+	<class 'str'>
+	Nulls: True
+	Unique values: 7
+	5 most frequent values:
+		Check:	76035
+		Credit Card:	37311
+		Other:	12978
+		Cash:	8040
+		InKind:	1504
+	Max length: 13
+ 14. Employer Name
+	<class 'str'>
+	Nulls: True
+	Unique values: 22762
+	5 most frequent values:
+		Retired:	4068
+		Self:	2855
+		Requested:	2171
+		Self Employed:	2065
+		Verizon Corp Rsrcs Group LLC:	1317
+	Max length: 68
+ 15. Employer Address
+	<class 'str'>
+	Nulls: True
+	Unique values: 10886
+	5 most frequent values:
+		Washington, DC:	44237
+		1300 I Street NW, Washington, DC 20005:	1420
+		Washington, DC 20016:	881
+		Washington, DC 20007:	721
+		Washington, DC 20015:	581
+	Max length: 72
+ 16. Receipt Date
+	<class 'str'>
+	Nulls: False
+	Unique values: 2967
+	5 most frequent values:
+		1/31/14:	886
+		12/12/08:	881
+		10/10/14:	858
+		3/10/14:	839
+		6/10/14:	672
+	Max length: 10
+ 17. Amount
+	<class 'str'>
+	Nulls: False
+	Unique values: 2858
+	5 most frequent values:
+		$100.00:	22652
+		$500.00:	19352
+		$50.00:	19142
+		$25.00:	12976
+		$250.00:	11229
+	Max length: 11
+ 18. _unnamed
+	<class 'datetime.date'>
+	Nulls: True
+	Values: 2014-03-10, 2011-10-07
+ 19. _unnamed
+	<class 'str'>
+	Nulls: True
+	Values: $100.00, $500.00
+
+Row count: 137459
